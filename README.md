@@ -1,10 +1,14 @@
 # About me
 Hello, my name is **Mariia Shkurina** and I am a Quality Assurance engineer.
 
-For now, I'm focusing on:
+My main focuses are:
 
- - 📎 Writing autotests: Python + Selenium/Selene (UI), Requests (API), Appium (Mobile)
- - 📎 Improving the knowledge of Python
+ - 📎 Writing autotests: JS/TS + Playwright;
+ - 📎 Improving the knowledge of JS/TS;
+ - 📎 Leaning more about the best practices of builing E2E test coverage and AQA related things.
+
+Besides, I have an experience in:
+- 📎 Writing autotests: Python + Selenium, Python + Playwright, Python + Appium (for mobile tests);
 
 You can reach me by:
 
