@@ -10,6 +10,9 @@ My main focuses are:
 Besides, I have an experience in:
 - 📎 Writing autotests: Python + Selenium, Python + Playwright, Python + Appium (for mobile tests);
 
+My other Github accounts:
+https://github.com/tlk-mashashk
+
 You can reach me by:
 
  - ✉️ _mail_: kryugersha@gmail.com
